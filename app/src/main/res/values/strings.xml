@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">JalanJalan</string>
+    <string name="jargon">Wisata Lebih Asik</string>
+    <string name="text_getstarted">Discover \nThe Beauty \nof Pamekasan</string>
+    <string name="signin">SIGN IN</string>
+    <string name="newacc">NEW ACCOUNT</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_sign_in">SignIn</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="createnewacc">Create New Account</string>
+    <string name="email">Email</string>
+    <string name="continue_">Continue</string>
+    <string name="name_label">Name</string>
+    <string name="biodata_label">Biodata</string>
+    <string name="explore">Explore Now</string>
+    <string name="information">Information</string>
+    <string name="mottoinfo">Know it before travel.</string>
+    <string name="pisa">Pisa Tower</string>
+    <string name="pisaticket">Pisa, Italy</string>
+    <string name="save_profile">Save Profile</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "289504099628",
+    "firebase_url": "https://jalanjalan-e1836.firebaseio.com",
+    "project_id": "jalanjalan-e1836",
+    "storage_bucket": "jalanjalan-e1836.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289504099628:android:a5e6d329490e3278",
+        "android_client_info": {
+          "package_name": "com.pamekasan.apppamekasan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289504099628-ptfg3qm2g4fkmuuo8mbvi22074g6htdf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pamekasan.apppamekasan",
+            "certificate_hash": "86981e5d9e1ea46a564ecbfd6e1bec162bffc9cf"
+          }
+        },
+        {
+          "client_id": "289504099628-g0rut00aa3q8dfpds9de4540e34rouop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoAs3FVJ4UMybMPK-yj3A2UOAe6mN20G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289504099628-g0rut00aa3q8dfpds9de4540e34rouop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
